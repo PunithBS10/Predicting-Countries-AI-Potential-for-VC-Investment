@@ -32,8 +32,8 @@ This notebook introduces core AI concepts and walks through basic implementation
 
 ## 🔗 View the Notebook
 
-- 📘 [Open in Google Colab](https://colab.research.google.com/drive/1stLmdUsSgsZ213pnDtCejSKVSpwIlRKz)
-- 🗂️ [View on GitHub](./Intro_to_AI.ipynb)
+- 📘 [Open in Google Colab](https://colab.research.google.com/drive/1stLmdUsSgsZ213pnDtCejSKVSpwIlRKz?usp=sharing)
+- 🗂️ [View on GitHub](https://github.com/PunithBS10/Predicting-Countries-AI-Potential-for-VC-Investment.git)
 
 ---
 
